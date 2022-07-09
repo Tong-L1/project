@@ -1,0 +1,4 @@
+﻿  jingxianzhi.cpp
+D:\documents\c&c++\jingxianzhi\jingxianzhi.cpp(69,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\documents\c&c++\jingxianzhi\jingxianzhi.cpp(69,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  jingxianzhi.vcxproj -> D:\documents\c&c++\jingxianzhi\Debug\jingxianzhi.exe

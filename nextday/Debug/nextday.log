@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\documents\c&c++\nextday\源.cpp(5,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\documents\c&c++\nextday\源.cpp(114): warning C4715: “dayIsRight”: 不是所有的控件路径都返回值
+  nextday.vcxproj -> D:\documents\c&c++\nextday\Debug\nextday.exe
